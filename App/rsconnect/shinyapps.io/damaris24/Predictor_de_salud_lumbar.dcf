@@ -1,0 +1,13 @@
+name: Predictor_de_salud_lumbar
+title: Predictor_de_salud_lumbar
+username:
+account: damaris24
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5254952
+bundleId: 5384978
+url: https://damaris24.shinyapps.io/Predictor_de_salud_lumbar/
+when: 1639755786.261
+lastSyncTime: 1639755786.261
+asMultiple: FALSE
+asStatic: FALSE
