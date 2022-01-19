@@ -4,7 +4,7 @@ Desarrollo de una aplicación web para la predicción de la salud lumbar, aplica
 
 Aplicación web:  https://damaris24.shinyapps.io/Predictor_de_salud_lumbar/
 
-La carpera "App" contiene todos los elementos de la aplicación, abrir app.R y correr la aplicación. 
+La carpeta "App" contiene todos los elementos de la aplicación, abrir app.R y correr la aplicación. 
 El archivo modelos.R contiene el análisis de los algoritmos de aprendizaje automático evaluados.
 
 ![image](https://user-images.githubusercontent.com/81890504/147360267-09f66612-7a51-4800-aabc-435641b12be1.png)
